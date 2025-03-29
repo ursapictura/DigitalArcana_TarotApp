@@ -10,6 +10,6 @@ namespace TarotApp.Models
         public int CardNumber { get; set; }
         public string ImagePath { get; set; }
         public string Meaning { get; set; }
-        public string ReversedMeaning { get; set; }
+        public string ReverseMeaning { get; set; }
     }
 }
